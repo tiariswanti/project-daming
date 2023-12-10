@@ -1,5 +1,5 @@
 # Perbandingan Teknik Klasifikasi Decision Tree dan Random Forest untuk Memprediksi Kualitas Air
-## Anggota dan Role:
+## Anggota:
 |  | Nama  | NIM |
 | - | ------------- | -
 | 1 | Nadiah Sahidah Ulya  | G6401201005|
